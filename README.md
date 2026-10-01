@@ -3,6 +3,7 @@
 A small Flappy Bird-style game I made while learning JavaScript.
 
 The idea is pretty simple: you control a pig, click to make it fly, and try to get through the pipes without crashing.
+https://tarunjagrit.github.io/Flappy_Pig/
 
 ## What is different?
 
